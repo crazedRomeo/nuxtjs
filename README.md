@@ -1,4 +1,4 @@
-# Nuxt.js Example
+# Nuxt.js Project
 
 Deploy your [Nuxt.js](https://nuxtjs.org) project to Vercel with zero configuration.
 
